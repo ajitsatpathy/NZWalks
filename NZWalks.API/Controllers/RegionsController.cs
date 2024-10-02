@@ -18,7 +18,7 @@ namespace NZWalks.API.Controllers
         }
 
         // Get all regions
-        // https://localhost:port/api/regions
+        // https://localhost:portnumber/api/regions
         [HttpGet]
         public IActionResult GetAll()
         {
@@ -59,7 +59,7 @@ namespace NZWalks.API.Controllers
         }
 
         // Get region by id
-        // https://localhost:port/api/regions/{id}
+        // https://localhost:portnumber/api/regions/{id}
         [HttpGet]
         [Route("{id:Guid}")]
         public IActionResult GetById(Guid id)
@@ -86,7 +86,7 @@ namespace NZWalks.API.Controllers
         }
 
         // POST to create New Region
-        // POST: https://localhost:port/api/regions
+        // POST: https://localhost:portnumber/api/regions
         [HttpPost]
         public IActionResult Create([FromBody] AddRegionRequestDto addRegionRequestDto)
         {
@@ -115,7 +115,7 @@ namespace NZWalks.API.Controllers
         }
 
         // Update region
-        // PUT: https://localhost:port/api/regions/{id}
+        // PUT: https://localhost:portnumber/api/regions/{id}
         [HttpPut]
         [Route("{id:Guid}")]
         public IActionResult Update([FromRoute] Guid id, [FromBody] UpdateRegionRequestDto updateRegionRequestDto) 
@@ -148,7 +148,7 @@ namespace NZWalks.API.Controllers
         }
 
         // Delete Region
-        // DELETE: https://localhost:port/api/regions/{id}
+        // DELETE: https://localhost:portnumber/api/regions/{id}
         [HttpDelete]
         [Route("{id:Guid}")]
         public IActionResult Delete(Guid id)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OvhRljVfHkY=",
+  "dgSpecHash": "jmliklAA2Xg=",
   "success": true,
-  "projectFilePath": "E:\\Study\\Udemy\\.Net Core with Web API\\Code\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+  "projectFilePath": "E:\\Github\\main\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ajits\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ajits\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

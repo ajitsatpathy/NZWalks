@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Study\\Udemy\\.Net Core with Web API\\Code\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {}
+    "E:\\Github\\main\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {}
   },
   "projects": {
-    "E:\\Study\\Udemy\\.Net Core with Web API\\Code\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {
+    "E:\\Github\\main\\NZWalks\\NZWalks.API\\NZWalks.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Study\\Udemy\\.Net Core with Web API\\Code\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+        "projectUniqueName": "E:\\Github\\main\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
         "projectName": "NZWalks.API",
-        "projectPath": "E:\\Study\\Udemy\\.Net Core with Web API\\Code\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+        "projectPath": "E:\\Github\\main\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
         "packagesPath": "C:\\Users\\ajits\\.nuget\\packages\\",
-        "outputPath": "E:\\Study\\Udemy\\.Net Core with Web API\\Code\\NZWalks\\NZWalks.API\\obj\\",
+        "outputPath": "E:\\Github\\main\\NZWalks\\NZWalks.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajits\\AppData\\Roaming\\NuGet\\NuGet.Config",
