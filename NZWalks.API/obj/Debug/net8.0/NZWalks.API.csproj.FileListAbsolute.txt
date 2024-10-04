@@ -271,3 +271,4 @@ E:\Github\main\NZWalks\NZWalks.API\obj\Debug\net8.0\refint\NZWalks.API.dll
 E:\Github\main\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.pdb
 E:\Github\main\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.genruntimeconfig.cache
 E:\Github\main\NZWalks\NZWalks.API\obj\Debug\net8.0\ref\NZWalks.API.dll
+E:\Github\main\NZWalks\NZWalks.API\bin\Debug\net8.0\AutoMapper.dll
